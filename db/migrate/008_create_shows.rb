@@ -4,5 +4,6 @@ class CreateShows < ActiveRecord::Migration[4.2]
       t.string :name 
       t.string :genre 
     end 
+  end 
   
 end 
